@@ -19,7 +19,7 @@ Para leer los datos de la Entidad que queremos ver
 
 Para realizar un update
     `node . --update:Contact --id=<<id a borrar>> --firstname=<<nombre>>`
-    *En un futuro se agregara la posibilidad para que sea variable el campo a modificar
+*En un futuro se agregara la posibilidad para que sea variable el campo a modificar*
 
 Para borrar un registro
     `node . --delete:Contact --id=<<id a borrar>>`

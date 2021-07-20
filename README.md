@@ -1,7 +1,7 @@
 # Aplicacion de consola con Node y Sequelize
 
 ## Descripción
-Se realizo un simple proyecto en el cual mediante la consola, podemos interactuar con la base de datos a base de comandos.
+Se realizo un proyecto simple en el cual mediante la consola, podemos interactuar con la base de datos a base de comandos.
 
 ## Instalacion de dependencias
 Mediante esta dependencia, vamos a poder interactuar con la DB gracias el CLI que nos brinda Sequelize

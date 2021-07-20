@@ -11,15 +11,15 @@
 
 ## Comandos
     Para hacer un insert
-    - node . --create:Contact --firstname=Pablo --lastname=Diaz --phone=121331 --email="pablo@gmail.com"
+    `node . --create:Contact --firstname=Pablo --lastname=Diaz --phone=121331 --email="pablo@gmail.com"`
 
     Para leer los datos de la Entidad que queremos ver
-    - node . --read:<<Entidad a leer>> 
+    `node . --read:<<Entidad a leer>>` 
     En nuestro caso seria 'Contact'
 
     Para realizar un update
-    - node . --update:Contact --id=<<id a borrar>> --firstname=<<nombre>>
+    `node . --update:Contact --id=<<id a borrar>> --firstname=<<nombre>>`
     *En un futuro se agregara la posibilidad para que sea variable el campo a modificar
 
     Para borrar un registro
-    - node . --delete:Contact --id=<<id a borrar>>
+    `node . --delete:Contact --id=<<id a borrar>>`

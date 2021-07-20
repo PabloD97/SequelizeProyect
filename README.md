@@ -1,7 +1,8 @@
 # Aplicacion de consola con Node y Sequelize
 
 ## Descripción
-    El proyecto trata de una aplicacion de consola. Mediante comandos escritos en esta, se interactua con la base de datos. 
+    El proyecto trata de una aplicacion de consola. Mediante comandos escritos en esta,
+    se interactua con la base de datos. 
 
 ## Instalacion de dependencias
     - npm install sequelize sequelize-cli sqlite3
